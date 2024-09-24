@@ -1,0 +1,9 @@
+{
+    "name": "NightmareVanillaScience",
+	"version": "0.0.1",
+	"title": "Nightmare Vanilla Science",
+	"author": "anonymous",
+	"description": "Science difficulty is increased massively for each tier of science. You will be looking at megabase scale production just to launch a single rocket. Good luck!",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1.0"]
+}

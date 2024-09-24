@@ -1,0 +1,5 @@
+table.insert(data.raw.technology["logistic-science-pack"].effects, {type="unlock-recipe", recipe="logistic-science-pack"})
+table.insert(data.raw.technology["military-science-pack"].effects, {type="unlock-recipe", recipe="military-science-pack"})
+table.insert(data.raw.technology["chemical-science-pack"].effects, {type="unlock-recipe", recipe="chemical-science-pack"})
+table.insert(data.raw.technology["production-science-pack"].effects, {type="unlock-recipe", recipe="production-science-pack"})
+table.insert(data.raw.technology["utility-science-pack"].effects, {type="unlock-recipe", recipe="utility-science-pack"})
