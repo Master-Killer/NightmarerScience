@@ -14,7 +14,7 @@ if settings.startup["purple-science"].value == true then
 		{"solar-panel", 10},
     },
     result = "production-science-pack",
-    result_count = 3
+    result_count = 1
   },
 	})
 end

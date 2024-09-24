@@ -13,9 +13,10 @@ if settings.startup["yellow-science"].value == true then
 		{"express-splitter", 1},
 		{"assembling-machine-3", 1},
 		{"nuclear-fuel", 10},
+		{"logistic-robot", 20},
     },
     result = "utility-science-pack",
-    result_count = 3
+    result_count = 1
 	},
 	})
 end
